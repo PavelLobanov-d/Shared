@@ -6,7 +6,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Shared.Framework.Statistics
 {
-    internal class StatisticsService : IStatisticsService
+    public sealed class StatisticsService : IStatisticsService
     {
         private readonly IStatisticsRepository _statisticsRepository;
         private readonly ILogger<StatisticsService> _logger;
