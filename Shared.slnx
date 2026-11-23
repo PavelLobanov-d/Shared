@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/SolutionFolder/">
+    <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="Shared.Framework/Shared.Framework.csproj" Id="d4f81581-ed35-47c4-8f39-a189cb97018b" />
+  <Project Path="Shared.Core/Shared.Core.csproj" />
+  <Project Path="Shared.Kernel/Shared.Kernel.csproj" />
+</Solution>
