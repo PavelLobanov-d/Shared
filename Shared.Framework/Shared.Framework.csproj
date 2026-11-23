@@ -4,6 +4,17 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>Shared.Framework</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>PavelLobanov-d</Authors>
+    <Company>PavelLobanov-d</Company>
+    <Title>Shared.Framework</Title>
+    <Description>Shared ASP.NET Core middleware and statistics services for DirectoryService.</Description>
+    <PackageTags>shared;framework;aspnetcore;middleware;statistics</PackageTags>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
 
   <ItemGroup>

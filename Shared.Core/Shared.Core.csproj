@@ -4,6 +4,17 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>Shared.Core</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>PavelLobanov-d</Authors>
+    <Company>PavelLobanov-d</Company>
+    <Title>Shared.Core</Title>
+    <Description>Shared command abstractions and FluentValidation integration for DirectoryService.</Description>
+    <PackageTags>shared;core;validation;commands</PackageTags>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
 
   <ItemGroup>
